@@ -7,6 +7,7 @@ import java.util.Date;
 /* 형식화 클래스
  * java.text 패키지
  * 소수점, 콤마..
+ *
  */
 
 public class SimpleDateFormatEx1 {
